@@ -1,0 +1,84 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "homeTeam": "Arsenal",
+      "awayTeam": "Chelsea",
+      "competition": "Premier League",
+      "date": "2024-12-26",
+      "stadium": "Emirates Stadium"
+    },
+    {
+      "id": 2,
+      "homeTeam": "Manchester City",
+      "awayTeam": "Liverpool",
+      "competition": "Premier League",
+      "date": "2024-12-27",
+      "stadium": "Etihad Stadium"
+    },
+    {
+      "id": 3,
+      "homeTeam": "Barcelona",
+      "awayTeam": "Real Madrid",
+      "competition": "La Liga",
+      "date": "2024-12-28",
+      "stadium": "Camp Nou"
+    },
+    {
+      "id": 4,
+      "homeTeam": "AC Milan",
+      "awayTeam": "Inter Milan",
+      "competition": "Serie A",
+      "date": "2024-12-28",
+      "stadium": "San Siro"
+    },
+    {
+      "id": 5,
+      "homeTeam": "PSG",
+      "awayTeam": "Marseille",
+      "competition": "Ligue 1",
+      "date": "2024-12-29",
+      "stadium": "Parc des Princes"
+    },
+    {
+      "id": 6,
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Dortmund",
+      "competition": "Bundesliga",
+      "date": "2024-12-29",
+      "stadium": "Allianz Arena"
+    },
+    {
+      "id": 7,
+      "homeTeam": "Juventus",
+      "awayTeam": "Napoli",
+      "competition": "Serie A",
+      "date": "2024-12-30",
+      "stadium": "Allianz Stadium"
+    },
+    {
+      "id": 8,
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Sevilla",
+      "competition": "La Liga",
+      "date": "2024-12-30",
+      "stadium": "Metropolitano"
+    },
+    {
+      "id": 9,
+      "homeTeam": "Tottenham",
+      "awayTeam": "West Ham",
+      "competition": "Premier League",
+      "date": "2024-12-31",
+      "stadium": "Tottenham Stadium"
+    },
+    {
+      "id": 10,
+      "homeTeam": "Ajax",
+      "awayTeam": "PSV",
+      "competition": "Eredivisie",
+      "date": "2024-12-31",
+      "stadium": "Johan Cruyff Arena"
+    }
+  ]
+}
